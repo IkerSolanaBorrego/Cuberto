@@ -34,6 +34,18 @@ body {
     flex-wrap: wrap;
 }
 
+.section1 {
+    background-color: #F5EEF5;
+}
+
+.section2 {
+    background-color: #FAF5F3
+}
+
+.section3 {
+    background-color: #F2F9F8
+}
+
 .texto {
     width: 50%;
     padding: 30px;
